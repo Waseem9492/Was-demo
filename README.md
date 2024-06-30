@@ -1,4 +1,4 @@
-# Was-demo
+# FullStack-Was
 This is my first repository .
 <br>
 Author-waseem
